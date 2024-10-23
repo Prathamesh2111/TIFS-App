@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571056031507",
+    "project_id": "tifs-9bb46",
+    "storage_bucket": "tifs-9bb46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571056031507:android:581c21538bf851520ffce6",
+        "android_client_info": {
+          "package_name": "com.example.tifs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571056031507-e3oan71kdf3ptkh96ct4m535l561lg6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArQPKyAm1WwRNKFqcfdpgDogtApsG4tCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571056031507-e3oan71kdf3ptkh96ct4m535l561lg6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
